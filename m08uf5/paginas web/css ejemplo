@@ -1,0 +1,34 @@
+<!DOCTYPE htlm>
+<htlm>
+    <head>
+    <body>    
+
+<table border =1>
+   <caption>Distancia recorrida</caption>
+    <tr>
+      <th></th>
+      <th>Día 1</th>
+      <th>Día 2</th>
+      <th>Día 3</th>
+     <th>Día 4</th>
+   </tr>
+  <tr>
+    <th>Corredor1</th>
+    <td colspan="3">0 km</td>
+    <td>4 km</td>
+  </tr>
+  <tr>
+    <th>corredor2</th>
+    <td>23 km</td>
+    <td>18 km</td>
+    <td>19 km</td>
+    <td>15 km</td>
+  </tr>  </table>
+</body>
+      
+      
+      
+      
+      
+      </htlm>
+

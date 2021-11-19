@@ -1,0 +1,14 @@
+table,td,th{
+	border: 1px solid black;
+}
+td{
+	padding:10px;
+}
+#cara1{
+	height:30px;
+	width:30px;
+}
+#cara2{
+	height:60px;
+	width:60px;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE htlm>
+<htlm>
+    <head>
+    <body>    
+    
+     <H1>Battlefield</H1> 
+     <ul>
+     <li>About
+     </li>
+     <li>
+         <strong>Comunity</strong>       
+     <ul>
+       
+         <li><p><a href="https://www.Forums/">Forums</a></p></li>
+     </ul>
+     <ul>
+       
+        <li><p><strong><a href="https://www.Discord/">Discord</a></strong></p></li>
+    </ul>
+    <ul>
+       
+        <li><p><a href="https://www.Comunity Charter/">Comunity Charter</a></p></li>
+    </ul>
+     </body>
+      
+      
+      
+      
+      
+      </htlm>
+

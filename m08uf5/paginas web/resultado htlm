@@ -1,0 +1,30 @@
+<!DOCTYPE htlm>
+<htlm>
+   
+    <head>
+    <title>Exercici8</title>
+    <link rel=>
+    </head>
+    <body> 
+   
+<H1>Resultado de la busqueda</H1>  
+
+<table border="1">
+
+    <caption>Resultado de la busqueda</caption>
+    <tr><td><strong>imagen</strong></td><td><strong>Datos</strong></td></tr>
+    <tr><td><img src="portatil.png" alt="imagen1"></td><td>Portatil-3 GHZ-4 RAM <br> Comprar 2.990$ 2.599$</td></tr>
+    <tr><td><img src="videocamara.png" alt="imagen2"></td><td>Videocamara-Alta definicion 1080p -60GB  <br> Comprar 1.099$ 999$</td></tr>
+    <tr><td><img src="tv.png" alt="imagen3"></td><td>Televisor -46- Full HD <br> Comprar 1.999$ 1.799$</td></tr>
+    <tr><td><img src="mobil.png" alt="imagen4"></td><td>Mobil -3G- WiFi- 8GB Full HD <br> Comprar 399$ 349$</td></tr>
+</table>
+</body>
+
+ </htlm>
+      
+      
+      
+      
+      
+      
+
